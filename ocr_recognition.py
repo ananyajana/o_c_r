@@ -100,7 +100,7 @@ for j in files:
         #file.write(maxc - minc)
         #file.write("maxr - minr: ")
         #file.write(maxr - minr)
-        if (maxc - minc) < 15 and (maxr - minr) < 15:
+        if (maxc - minc) < 7 and (maxr - minr) < 7:
             i = i + 1
             #print("maxc - minc: ")
             #print(maxc - minc)
